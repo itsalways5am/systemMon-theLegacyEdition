@@ -1,22 +1,23 @@
+# systemMon-LegacyEditionV0.1
+systemMon-LegacyEdition V0.1
+
 # System Monitor - A part of Project Aradia
 A collection of cross-platform system monitor scripts written in Python for logging OS, application state, networking etc.
 
 This project is currently under initial phases of active development.
 
-# What is the "Legacy Edition - Undercover"?
-The primary purpose of the legacy edition is to continue the project until the Original LH chooses to reveal his ways. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream. The aim of this application will be to authomate threat detection and mitigation on local users'systems. Details belowl.
+# What is the "Legacy Edition"?
+The primary purpose of the legacy edition is to continue the project until Lame Hacker back in action. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream.
 
-Update : as of 2018-12-12 we are admist re-write #3 - structure stays pretty much the same but the data handling will be slightly modified to further challenge those with inquiring minds. The code you see here, is the foundation of what is being created. 
+# Update : as of 2018-12-12 we are admist re-write #3 **
+structure stays pretty much the same but the data handling will be managed differently!##
 
-The code and project may not be what it appears to be...will you be able to discover what's beneath it all?
+**Primarily coded in Python, the project/application is aimed to automate threat detection and mitigation on local users' systems. The initiative is to incorporate heuristics analysis and (when we get enough data) neural networks to prevent and mitigate intrusive events in real time.**
 
-**Primarily coded in Python, the project/application is aimed to automate threat detection and mitigation on local users' systems. The initiative is to incorporate heuristics analysis combined with outlier and novelty detction. Neural networks will come into play in stages soon to come! 
+A datascience and Info Security project like no other, are you ready to get blown away? Just wait. In developoment and testing as we speak.
 
-But Why? **Our aim is prevent and mitigate intrusive events in real time.**
+# Truly wanna learn datascience and/or infoSec by doing? 
 
-A datascience and Info Security project like no other, are you ready to get dive deep? Just wait. In developoment and testing as we speak.
-
-# Truly wanna learn datascience or InfoSec by doing? 
+https://itsalways5am.github.io/systemMon-LegacyEditionV0.1
 
 # Learn the ins and outs of InfoSec and DataScience by JUST doing it. Only for the fearless. So what if you don't know how - you will learn. Interested in joining our mission?
-

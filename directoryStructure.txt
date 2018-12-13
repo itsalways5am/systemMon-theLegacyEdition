@@ -1,0 +1,65 @@
+#######################################################################################################################
+## directoryStructure.txt
+## purpose : to explain directory struture
+## last updated: 2018-12-03
+##
+## author: luckyducky, lamehacker, calebpitts
+#######################################################################################################################
+
+/bin
+
+    /cleaners                   # contains primary cleaner scripts for .log files
+        _ _init_ _.py           # contains info for parser.py on which cleaners to run upon execution of parser.py
+
+        batteryClean.py         # cleaner scripts for log files that convert data into .csv
+        bootTimeClean.py
+        disksClean.py
+        logTrackerClean.py
+        networkIntClean.py
+        processesClean.py
+
+     logger.py                  # primary script to run to begin gathering system metrics & generates log files
+     machineTagger.py           # generates custom/encoded machineID for unique identification of systems
+     netSpeed.py                # not being used at the moment
+     parser.py                  # primary script to be run to parse all log files using files in cleaners
+     preferences.cfg            # once logger.py is run for the first time, machineID will be filled in (from 0 to machineID)
+     systemMon.py               # core system monitoring script
+
+     /checkers                  # temporary holding folder for data integrity checks (i.e. to ensure parsed data matches raw data)
+
+        batteryCheck.py
+        bootCheck.py
+        cleanersMainCheck.py
+        diskCheck.py
+        networkCheck.py
+        processesCheck.py
+
+     /data                      # data directory (and files) generated after parser.py is run
+
+        batteryLog.csv
+        bootTimeLog.csv
+        disksLogs.csv
+        logTrackerLog.csv
+        networkintLogs.csv
+        processesLogs.csv
+
+     /logs                     # storage location to hold log files by date
+
+        /2018-11-20
+             battery.log
+             bootTime.log
+             disks.log
+             logTracker.log
+             networkInterfaces.log
+             processes.log
+
+        /2018-xx-xx
+
+      /typecast                 # temporary holding directory for typecast scripts
+
+        batteryTypecast.py
+        bootTimeTypecast.py
+        disksTypecast.py
+        logTrackerTypecast.py
+        networkIntTypecast.py
+        processesTypecast.py

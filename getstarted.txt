@@ -1,0 +1,16 @@
+#######################################################################################################################
+## getstarted.txt
+## purpose : ready to get started?
+## last updated: 2018-12-04
+##
+## author: luckyducky, lamehacker, calebpitts
+#######################################################################################################################
+
+1. Clone and/or create a pull request of this repo. If you plan on or want to contribute, fork this.
+2. Run logger.py for 5-7 days (or even less if you just want to play around)
+3. After you have generated log files sufficent in amount of data for you and your local system; run parser.py
+4. You can either type cast the data yourself or run the typecast scripts in /typecasts
+5. Begin EDA
+6. Create baseline model
+7. Next steps will follow....
+
