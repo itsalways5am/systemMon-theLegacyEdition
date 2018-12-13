@@ -1,5 +1,3 @@
-# systemMon-LegacyEditionV0.1
-systemMon-LegacyEdition V0.1
 
 # System Monitor - A part of Project Aradia
 A collection of cross-platform system monitor scripts written in Python for logging OS, application state, networking etc.
@@ -18,6 +16,5 @@ A datascience and Info Security project like no other, are you ready to get blow
 
 # Truly wanna learn datascience and/or infoSec by doing? 
 
-https://itsalways5am.github.io/systemMon-LegacyEditionV0.1
 
 # Learn the ins and outs of InfoSec and DataScience by JUST doing it. Only for the fearless. So what if you don't know how - you will learn. Interested in joining our mission?
