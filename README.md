@@ -18,4 +18,6 @@ Truly wanna learn datascience and/or infoSec by doing?
 
 https://itsalways5am.github.io/systemMon-theLegacyEdition/
 
-# Learn the ins and outs of InfoSec and DataScience by JUST doing it. Only for the fearless. So what if you don't know how - you will learn. Interested in joining our mission? Hit us up and let's see if we are a good match.
+# Learn the ins and outs of InfoSec and DataScience by JUST doing it. Only for the fearless. So what if you don't know how - you will learn. 
+
+Curious? Start by logging your own system data. And a whole new world will be revealed. Instructions contained within.
