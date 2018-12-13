@@ -4,13 +4,13 @@ A collection of cross-platform system monitor scripts written in Python for logg
 
 This project is currently under initial phases of active development.
 
-# What is the "Legacy Edition"?
-The primary purpose of the legacy edition is to continue the project until Lame Hacker back in action. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream.
+# What is the "Legacy Edition - Underdover"?
+The primary purpose of the legacy edition is to continue the project until Lame Hacker back in action. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream. Infosec combined with DataScience...a match made in heaven.
 
-# Update : as of 2018-12-12 we are admist re-write #3 **
+** Update : as of 2018-12-12 we are admist re-write #3 **
 structure stays pretty much the same but the data handling will be managed differently!##
 
-**Primarily coded in Python, the project/application is aimed to automate threat detection and mitigation on local users' systems. The initiative is to incorporate heuristics analysis and (when we get enough data) neural networks to prevent and mitigate intrusive events in real time.**
+Primarily coded in Python, the project/application is aimed to automate threat detection and mitigation on local users' systems. The initiative is to incorporate heuristics analysis and (when we get enough data) neural networks to prevent and mitigate intrusive events in real time.
 
 A datascience and Info Security project like no other, are you ready to get blown away? Just wait. In developoment and testing as we speak.
 
