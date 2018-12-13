@@ -1,12 +1,12 @@
-# systemMon-theLegacyEdition(Undercover)
+
 
 # System Monitor - A part of Project Aradia
 A collection of cross-platform system monitor scripts written in Python for logging OS, application state, networking etc.
 
 This project is currently under initial phases of active development.
 
-# What is the "Legacy Edition"?
-The primary purpose of the legacy edition is to continue the project the Original LH chooses to reveal his ways. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream.
+# What is the "Legacy Edition - Undercover"?
+The primary purpose of the legacy edition is to continue the project until the Original LH chooses to reveal his ways. The dream will continue as it no longer the dream of just the dreamer. It's become a collective dream.
 
 # Update : as of 2018-12-12 we are admist re-write #3 - structure stays pretty much the same but the data handling will be slightly modified to further challenge those with inquiring minds. 
 
